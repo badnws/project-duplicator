@@ -32,4 +32,3 @@ function Index() {
     </div>
   );
 }
-}
