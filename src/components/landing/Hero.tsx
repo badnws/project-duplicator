@@ -23,7 +23,7 @@ export function Hero() {
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.7, delay: 0.05, ease: "easeOut" }}
-          className="mt-6 text-balance font-display text-4xl font-700 leading-[1.05] tracking-tight sm:text-5xl lg:text-6xl"
+          className="mt-6 text-center font-display text-4xl font-700 leading-[1.05] tracking-tight sm:text-5xl lg:text-6xl"
         >
           Perícia Forense de Imagens{" "}
           <span className="bg-gradient-to-r from-white to-[color-mix(in_oklab,var(--brand-blue)_70%,white)] bg-clip-text text-transparent">
